@@ -1,7 +1,7 @@
 # Portfolio
 
 This portfolio is a small project using HTMl / CSS and Boostrap. I will be using this to showcase my projects !
-(Live Heroku Deployment)(https://portfolio-princedarko.herokuapp.com/)
+[Live Heroku Deployment](https://portfolio-princedarko.herokuapp.com/)
 ## Technology Used
 * HTML
 * CSS
